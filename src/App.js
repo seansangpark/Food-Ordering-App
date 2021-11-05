@@ -1,12 +1,12 @@
 import React, { Fragment } from 'react';
 import Header from './components/Layout/Header';
 
-function App() {
+const App = () => {
   return (
     <>
       <Header></Header>
     </>
   );
-}
+};
 
 export default App;
